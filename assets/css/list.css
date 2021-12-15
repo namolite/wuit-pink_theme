@@ -1,0 +1,203 @@
+
+
+
+          
+        
+
+
+
+
+
+.riq40{ width:95%; height:60px;  margin:10px 0 15px}
+.riq49{ width:60px; float:left; padding:0 0 10px; margin: 0;}
+.riq49 h3{ background:#e7e7e7;  font-size:12px; FONT-FAMILY: "Microsoft YaHei";height:25px; font-weight:normal; text-align:center; line-height:25px;	padding: 0; margin: 0;}
+.riq49 p{ background:#b97392; color:#fff; font-size:12pt;	
+	FONT-FAMILY: "Microsoft YaHei"; height:25px; font-weight:normal; text-align:center; line-height:25px;padding: 0; margin: 0;}
+.rigrr{
+	width:310px;
+	float:left;
+	height:60px;
+	line-height:27.5px;
+	font-size:12pt;
+	padding-left:10px;
+FONT-FAMILY: "Microsoft YaHei";
+
+}
+
+
+
+.riq404{ width:95%; height:60px;  margin:10px 0 15px}
+.riq494{ width:60px; float:left; padding:0 0 10px; margin: 0;}
+.riq494 h3{ background:#e7e7e7;  font-size:12px; FONT-FAMILY: "Microsoft YaHei";height:25px; font-weight:normal; text-align:center; line-height:25px;	padding: 0; margin: 0;}
+.riq494 p{ background:#E6540B; color:#fff; font-size:12pt;	
+	FONT-FAMILY: "Microsoft YaHei"; height:25px; font-weight:normal; text-align:center; line-height:25px;padding: 0; margin: 0;}
+.rigrr4{
+	width:290px;
+	float:left;
+	height:60px;
+	line-height:27.5px;
+	font-size:12pt;
+	padding-left:10px;
+FONT-FAMILY: "Microsoft YaHei";
+
+}
+
+.riq401{ width:95%; height:60px;  margin:10px 0 15px}
+.riq491{ width:60px; float:left; padding:0 0 10px; margin: 0;}
+.riq491 h3{ background:#e7e7e7;  font-size:12px; FONT-FAMILY: "Microsoft YaHei";height:25px; font-weight:normal; text-align:center; line-height:25px;	padding: 0; margin: 0;}
+.riq491 p{ background:#C0997D; color:#fff; font-size:12pt;	
+	FONT-FAMILY: "Microsoft YaHei"; height:25px; font-weight:normal; text-align:center; line-height:25px;padding: 0; margin: 0;}
+.rigrr1{
+	width:310px;
+	float:left;
+	height:60px;
+	line-height:27.5px;
+	font-size:12pt;
+	padding-left:10px;
+FONT-FAMILY: "Microsoft YaHei";
+
+}
+
+.riq402{ width:95%; height:60px;  margin:10px 0 15px}
+.riq492{ width:60px; float:left; padding:0 0 10px; margin: 0;}
+.riq492 h3{ background:#e7e7e7;  font-size:12px; FONT-FAMILY: "Microsoft YaHei";height:25px; font-weight:normal; text-align:center; line-height:25px;	padding: 0; margin: 0;}
+.riq492 p{ background:#a787cb; color:#fff; font-size:12pt;	
+	FONT-FAMILY: "Microsoft YaHei"; height:25px; font-weight:normal; text-align:center; line-height:25px;padding: 0; margin: 0;}
+.rigrr2{
+	width:310px;
+	float:left;
+	height:60px;
+	line-height:27.5px;
+	font-size:12pt;
+	padding-left:10px;
+FONT-FAMILY: "Microsoft YaHei";}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 以下样式不用修改 开始*/
+    /* 默认ul 无需修改 */
+    .nav_menustyle_1_1 ul
+    {
+        list-style-type:none;
+        padding:0px; 
+        margin:0px;}
+    /* 默认li 无需修改 */
+    .nav_menustyle_1_1 li
+    {
+        float:left;
+        text-align:center;
+        position:relative;}
+    /* 2级以上 li 无需修改 */
+    .nav_menustyle_1_1 ul li ul li
+    {
+        z-index:100;}
+  
+
+    .nav_menustyle_1_1 ul li ul
+    {
+        width:109px;}
+
+    /* 3级以上默认ul 无需修改 */
+    .nav_menustyle_1_1 ul li ul li ul
+    {
+        left:100%;
+        top:0px;}
+    /* IE6下的table样式 无需修改 */
+    .nav_menustyle_1_1 table 
+    {
+        position:absolute; 
+        left:0px;
+        border-collapse:collapse; 
+        border-spacing:0; 
+        z-index:100;}   
+    .nav_menustyle_1_1 table table
+    {
+        top:0px;}
+    .nav_menustyle_1_1 td 
+    {
+        padding: 0;}   
+    /* 共6级导航子菜单打开关闭控制 无需修改 */
+    .nav_menustyle_1_1 li ul,
+    .nav_menustyle_1_1 li:hover ul li ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul li ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul li:hover ul li ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul li:hover ul li:hover ul li ul
+    {
+        display:none;}
+    .nav_menustyle_1_1 li a:hover ul li ul,
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul li ul,
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul li a:hover ul li ul,
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul li a:hover ul li a:hover ul li ul
+    {
+        visibility:hidden;}
+    .nav_menustyle_1_1 li a:hover ul,
+    .nav_menustyle_1_1 li:hover ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul li:hover ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul li:hover ul li:hover ul,
+    .nav_menustyle_1_1 li:hover ul li:hover ul li:hover ul li:hover ul li:hover ul    
+    {
+        display:block;
+        position:absolute;}
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul,
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul li a:hover ul,
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul li a:hover ul li a:hover ul,
+    .nav_menustyle_1_1 li a:hover ul li a:hover ul li a:hover ul li a:hover ul li a:hover ul
+    {
+        visibility:visible;}
+    /* 默认a属性 无需修改 */
+    .nav_menustyle_1_1 a
+    {
+        display:block;
+        text-decoration:none;
+        white-space:nowrap;}
+/* 以上样式不用修改 结束*/
+/* 默认链接样式 可以修改默认的 字体、颜色、宽度、高度、背景色、边框等*/
+.nav_menustyle_1_1 a
+{
+    width:109px;         /*菜单宽度*/
+    height:48px;        /*菜单高度*/
+    line-height:48px;   /*字体高度, 可设为菜单高度*/
+    font-size:16pt;     /*字体大小*/
+    color:#000000;         /*字体颜色*/
+    background:#ffffff; /*背景色*/
+    border:0px solid #a787cb;  /*边框颜色*/
+    border-width:0px 0px 0px 0px;
+     font-family:"Microsoft YaHei", "微软雅黑";}
+/* 默认hover链接样式 可以设置默认的鼠标移上样式 */
+.nav_menustyle_1_1 a:hover
+{
+    color:#ffffff; /*鼠标移上颜色*/
+    background:#a787cb;}
+/* IE6兼容性代码，在IE6下起效， 必须根据菜单高宽进行设定 */
+.nav_menustyle_1_1 table 
+{
+    top:26px;}   
+.nav_menustyle_1_1 table table
+{
+    left:91px;}   
+/* 2级以上链接样式 可以修改2级以上菜单的 字体、颜色、宽度、高度、背景色、边框等*/
+.nav_menustyle_1_1 ul li ul li a
+{}
+/* 2级以上hover链接样式 可以修改2级以上菜单的鼠标移上样式*/
+.nav_menustyle_1_1 ul li ul li a:hover
+{}
+/* 3级以上链接样式 可以修改3级以上菜单的 字体、颜色、宽度、高度、背景色、边框等*/
+.nav_menustyle_1_1 ul li ul li ul li a
+{}
+/* 3级以上hover链接样式 可以修改3级以上菜单的鼠标移上样式*/
+.nav_menustyle_1_1 ul li ul li ul li a:hover
+{}
