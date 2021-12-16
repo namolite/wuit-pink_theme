@@ -1,1 +1,0 @@
-# wuit-pink_theme
