@@ -14,5 +14,3 @@
 ⚠️Cautions! Contains scences with rapidly flashing colors.
   
 如果你看完内容以后血压上升，不许骂咱，请立即关闭 GitHub 并反思一下自己的问题。  
-  
-如果你觉得咱好菜，刷新了自己的认知，欢迎透透咱。
